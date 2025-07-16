@@ -1,0 +1,6 @@
+robotframework>=6.0
+robotframework-browser>=16.0
+requests>=2.31.0
+robotframework-requests>=0.9.5
+robotframework-seleniumlibrary>=6.2.0
+pytest>=8.2.0 
