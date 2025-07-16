@@ -13,6 +13,10 @@ A Python project for ... (describe your project here)
    ```sh
    pip install -r requirements.txt
    ```
+3. Initialize Robot Framework Browser dependencies:
+   ```sh
+   rfbrowser init
+   ```
 
 ## Usage
 
